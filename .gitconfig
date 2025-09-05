@@ -1,8 +1,5 @@
-
 [user]
-name = Edmond Nana
-email = 2352330cstjean.qc.ca
-[core]
-editeur = nvim
-[useername]
-username= EdmondNana
+	email =2352330@cstjean.qc.ca
+	name = Edmond Nana
+	editeur=vim
+	usersame=EdmondNana
